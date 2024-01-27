@@ -1,0 +1,23 @@
+.sm_icons ul {
+    margin: 15px 0 0 0;
+    padding-left: 0;
+    display: table;
+}
+.sm_icons ul li {
+    float: left;
+    list-style: none;
+    display: inline;
+    margin-right: 13px;
+    line-height: 2;
+} 
+.sm {
+    height: 35px;
+    width: 35px;
+    margin-right: 2px;
+}
+.sm_name {
+  font-size: 14px;
+  font-weight: 400; 
+  color: #fff!important;
+  padding-bottom: 3px;
+}
